@@ -1,4 +1,4 @@
-# Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA - CL-MPPCA
+# Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA (CL-MPPCA)
 
 [Paper Link (KDD 2019)](https://dl.acm.org/doi/abs/10.1145/3292500.3330776).
 
